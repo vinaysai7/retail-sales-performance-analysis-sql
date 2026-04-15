@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis
+# 🛒 Retail Sales Performance Analysis
 
 A SQL-driven analysis of retail transaction data to identify revenue drivers, customer patterns, and operational inefficiencies. This project delivers actionable insights for inventory management, customer segmentation, and resource allocation.
 
