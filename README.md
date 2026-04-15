@@ -98,6 +98,8 @@ This analysis demonstrates how structured SQL queries can transform raw transact
 
 The project highlights proficiency in database design, data cleaning, advanced SQL techniques, and translating technical findings into actionable business recommendations.
 
+This project demonstrates the ability to translate raw data into actionable business decisions using SQL.
+
 ---
 
 ## 📂 Repository Contents
